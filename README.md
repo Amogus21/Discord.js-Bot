@@ -6,7 +6,9 @@ This is an opensource discord.js bot project which is free of license. The code 
 [Go to wiki](https://github.com/Amogus21/Discord.js-Bot/wiki)
 
 ```
-## Code info
+## Repository info
 
-Lines of code:
+Lines of code: 385
+Language: 100% Javascript
+Packages: discord.js
 ```
