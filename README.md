@@ -4,3 +4,9 @@ This is an opensource discord.js bot project which is free of license. The code 
 ```Check the wiki tab for more info```
 
 [Go to wiki](https://github.com/Amogus21/Discord.js-Bot/wiki)
+
+```
+## Code info
+
+Lines of code:
+```
